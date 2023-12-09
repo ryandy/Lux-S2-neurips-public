@@ -12,4 +12,4 @@ You can read my post-competition writeup from Season 2 [here](https://www.kaggle
 - Follow setup instructions described [here](https://github.com/Lux-AI-Challenge/Lux-Design-S2/blob/v3.0.1/README.md#getting-started)
 - From the Lux-S2-neurips-public directory, run `./compile -d`
 - From the Lux-S2-neurips-public directory, run a test match `luxai-s2 ./build/agent.out ./build/agent.out -v 1 -o replay.html -s 0 -l 1000`
-- To view a replay of the match, open [replay.html](file:///path/to/Lux-S2-neurips-public/replay.html) in a browser (you will have to modify the path in the URL).
+- To view a replay of the match, open replay.html e.g. `file:///path/to/Lux-S2-neurips-public/replay.html` in a browser (you will have to modify the path in the URL).
